@@ -10,6 +10,15 @@
    :scale: 50 %
    :align: center
 
++-------------------------+-------------------------+-------------------------+-------------------------+
+|.. _figa:                |                         |                         |.. _figb:                |
+|                         |                         |                         |                         |
+|.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |
+|   :width: 80 %          |   :width: 80 %          |   :width: 80 %          |   :width: 80 %          |
+|   :align: center        |   :align: center        |   :align: center        |   :align: center        |
+|                         |                         |                         |                         |
++-------------------------+-------------------------+-------------------------+-------------------------+
+
 Welcome to YPAC U of A!
 ======================================================
 
