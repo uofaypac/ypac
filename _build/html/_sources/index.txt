@@ -18,7 +18,7 @@ Contents:
 .. toctree::
    :maxdepth: 15
 
-   Overview3.rst
+   Overview.rst
    Membership.rst
    Events.rst
 
