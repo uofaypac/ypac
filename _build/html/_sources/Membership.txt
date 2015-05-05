@@ -2,7 +2,7 @@
 .. figure:: tapping950.jpg
    :height: 350px
    :width: 950 px
-   :scale: 50 %
+   :scale: 75 %
    :align: center
 
 
