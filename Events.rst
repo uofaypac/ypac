@@ -1,4 +1,4 @@
-.. _Edmonton1:
+.. _tapping3:
 .. figure:: tapping950.jpg
    :height: 350px
    :width: 950 px
