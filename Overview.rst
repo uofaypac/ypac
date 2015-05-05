@@ -2,7 +2,6 @@
 .. _tapping:
 
 .. figure:: tapping950.jpg
-  :target: http://www.edmonton.ca/transportation/edmonton-transit-system-ets.aspx
   :height: 350px
   :width: 950 px
   :scale: 50 %
@@ -14,8 +13,9 @@
 |                                             |                                     |                                  |                                    |
 | .. figure:: UofAlogo.jpg                    |.. figure:: YPACLogo.JPG             |.. figure:: UofAlogo.jpg          |.. figure:: YPACLogo.JPG            |
 |   :target: http://www.ualberta.ca           | :target: http://www.ypacanada.com   |   :target: http://www.ualberta.ca|   :target: http://www.ypacanada.com|
-|   :width: 224px                             | :width: 224px                       |   :width: 224px                  |   :width: 224px                    |
-|   :height: 225px                            | :height: 225px                      |   :height: 225px                 |   :height: 225px                   |
+|   :width: 224px                             | :width: 150px                       |   :width: 224px                  |   :width: 150px                    |
+|   :height: 225px                            | :height: 150px                      |   :height: 225px                 |   :height: 150px                   |
+|   :scale: 75 %                              | :scale: 100 %                       |   :scale: 75 %                   |   :scale: 100 %                    |
 |   :align: center                            | :align: center                      |   :align: center                 |   :align: center                   |
 |                                             |                                     |                                  |                                    |
 +---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
