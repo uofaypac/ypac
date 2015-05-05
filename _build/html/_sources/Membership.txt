@@ -6,14 +6,16 @@
    :align: center
 
 
-+-------------------------+-------------------------+-------------------------+-------------------------+
-|.. _figa:                |                         |                         |.. _figb:                |
-|                         |                         |                         |                         |
-|.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |.. figure:: UofAlogo.jpg |.. figure:: YPACLogo.JPG |
-|   :width: 80 %          |   :width: 80 %          |   :width: 80 %          |   :width: 80 %          |
-|   :align: center        |   :align: center        |   :align: center        |   :align: center        |
-|                         |                         |                         |                         |
-+-------------------------+-------------------------+-------------------------+-------------------------+
++---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
+| .. _figa:                                   |                                     |                                  |.. _figb:                           |
+|                                             |                                     |                                  |                                    |
+| .. figure:: UofAlogo.jpg                    |.. figure:: YPACLogo.JPG             |.. figure:: UofAlogo.jpg          |.. figure:: YPACLogo.JPG            |
+|   :target: http://www.ualberta.ca           | :target: http://www.ypacanada.com   |   :target: http://www.ualberta.ca|   :target: http://www.ypacanada.com|
+|   :width: 224px                             | :width: 224px                       |   :width: 224px                  |   :width: 224px                    |
+|   :height: 225px                            | :height: 225px                      |   :height: 225px                 |   :height: 225px                   |
+|   :align: center                            | :align: center                      |   :align: center                 |   :align: center                   |
+|                                             |                                     |                                  |                                    |
++---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
 
 Membership
 ==================
