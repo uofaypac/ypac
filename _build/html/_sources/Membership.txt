@@ -35,10 +35,10 @@ Registration (Under construction)
 .. raw:: html
 
       <p>
-      First name <input type="text" id="firstName" style="width: 120px;"></p>
-      <p>Last name&nbsp <input type="text" id="lastName" style="width: 120px;"></p>
-      <p>Institution  <input type="text" id="institution" style="width: 120px;"></p>
-      <p>Position <select id="pos" size="1">
+      First name name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="firstName" style="width: 120px;"></p>
+      <p>Last name&nbsp name&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="lastName" style="width: 120px;"></p>
+      <p>Institution  name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="institution" style="width: 120px;"></p>
+      <p>Position name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<select id="pos" size="1">
       	<option value="undergraduate student">Undergraduate Student</option>
         <option value="graduate student">Graduate Student</option>
         <option value="research assistant">Research Assistant</option>
@@ -47,5 +47,9 @@ Registration (Under construction)
         <option value="industry">Industry(general)</option>
       </select>
       </p>
+      <p>Username  <input type="text" id="usernameR" style="width: 120px;"></p>
+      <p>Password  <input type="text" id="passR" style="width: 120px;"></p>
+      <p>Re-type password  <input type="text" id="repassR" style="width: 120px;"></p>
+      <p><button id="Register" type="button"></p>
 
       
