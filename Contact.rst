@@ -1,14 +1,6 @@
 Contact
 ================
 
-**Tran Mah-Paulson**
-
-Welding/Project Engineer, Global Operations at T.D. Williamson
-
-Send an email to Tran_.
-
-.. _Tran: Tran.Mah-Paulson@tdwilliamson.com  
-
 **Samer Adeeb**
 
 Associate Professor, Structural Engineering
@@ -17,7 +9,15 @@ Department of Civil and Environmental Engineering, University of Alberta
 
 Send an email to Samer_.
 
-.. _Samer: adeeb@ualberta.ca  
+.. _Samer: adeeb@ualberta.ca 
+
+**Tran Mah-Paulson**
+
+Welding/Project Engineer, Global Operations at T.D. Williamson
+
+Send an email to Tran_.
+
+.. _Tran: Tran.Mah-Paulson@tdwilliamson.com   
 
 **Meng Lin**
 
