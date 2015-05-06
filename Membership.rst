@@ -29,8 +29,8 @@ In order to become a member of U of A YPAC, you should meet the following criter
 - Be a current undergraduate or graduate student in the University of Alberta who is working on a pipeline project or interested in the pipeline studies.
 - Or be a recent graduate student with a reasonable chance of entering the pipeline industry.
 
-Registration
--------------------
+Registration (Under construction)
+-----------------------------------
 
 .. raw:: html
 
