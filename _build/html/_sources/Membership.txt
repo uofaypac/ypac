@@ -1,4 +1,4 @@
-.. _Edmonton1:
+.. _tapping2:
 .. figure:: tapping950.jpg
    :height: 350px
    :width: 950 px
@@ -6,17 +6,17 @@
    :align: center
 
 
-+---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
-| .. _figa:                                   |                                     |                                  |.. _figb:                           |
-|                                             |                                     |                                  |                                    |
-| .. figure:: UofAlogo.jpg                    |.. figure:: YPACLogo.JPG             |.. figure:: UofAlogo.jpg          |.. figure:: YPACLogo.JPG            |
-|   :target: http://www.ualberta.ca           | :target: http://www.ypacanada.com   |   :target: http://www.ualberta.ca|   :target: http://www.ypacanada.com|
-|   :width: 224px                             | :width: 150px                       |   :width: 224px                  |   :width: 150px                    |
-|   :height: 225px                            | :height: 150px                      |   :height: 225px                 |   :height: 150px                   |
-|   :scale: 65 %                              | :scale: 85 %                        |   :scale: 65 %                   |   :scale: 85 %                     |
-|   :align: center                            | :align: center                      |   :align: center                 |   :align: center                   |
-|                                             |                                     |                                  |                                    |
-+---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
++---------------------------------------------+-------------------------------------+--------------------------------------------+-------------------------------------+
+| .. _figa:                                   |                                     |                                            |.. _figb:                            |
+|                                             |                                     |                                            |                                     |
+| .. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |.. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |
+|   :target: http://www.ypacanada.com         | :target: http://www.ypacanada.com   |   :target: http://http://www.ypacanada.com |   :target: http://www.ypacanada.com |
+|   :width: 150px                             | :width: 150px                       |   :width: 224px                            |   :width: 150px                     |
+|   :height: 150px                            | :height: 150px                      |   :height: 225px                           |   :height: 150px                    |
+|   :scale: 85 %                              | :scale: 85 %                        |   :scale: 85 %                             |   :scale: 85 %                      |
+|   :align: center                            | :align: center                      |   :align: center                           |   :align: center                    |
+|                                             |                                     |                                            |                                     |
++---------------------------------------------+-------------------------------------+--------------------------------------------+-------------------------------------+
 
 Membership
 ==================
@@ -28,3 +28,29 @@ In order to become a member of U of A YPAC, you should meet the following criter
 
 - Be a current undergraduate or graduate student in the University of Alberta who is working on a pipeline project or interested in the pipeline studies.
 - Or be a recent graduate student with a reasonable chance of entering the pipeline industry.
+
+Registration
+-------------------
+
+.. raw:: html
+
+      <p>
+      First name <input type="text" id="firstName" style="width: 70px;"></p>
+      <p>Last name <input type="text" id="lastName" style="width: 70px;"></p>
+      <p>Institution  <input type="text" id="institution" style="width: 70px;"></p>
+      <p>Position <select id="pos" size="1">
+      	<option value="undergraduate student">Undergraduate Student</option>
+        <option value="graduate student">Graduate Student</option>
+        <option value="research assistant">Research Assistant</option>
+        <option value="engineer">Engineer</option>
+        <option value="professor">Professor</option>
+        <option value="industry">Industry(general)</option>
+      </select>
+      </p>
+      <p>
+        x[mm] <input type="text" id="x" style="width: 70px;">
+        y[mm] <input type="text" id="y" style="width: 70px;">
+        <input type="checkbox" id="xConstraint" >x constraint
+        <input type="checkbox" id="yConstraint" >y constraint
+      </p>
+      
