@@ -35,7 +35,7 @@ Research Assistant, University of Alberta
 
 Send an email to Diana_.
 
-.. _Diana: dabdulha@ualberta.ca"
+.. _Diana: dabdulha@ualberta.ca
 
 **Muntaseer Kainat**
 
