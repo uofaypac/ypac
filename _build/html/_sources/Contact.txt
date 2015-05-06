@@ -1,7 +1,7 @@
 Contact
 ================
 
-**Samer Adeeb, Ph.D. P.Eng.**
+**Samer Adeeb, Ph.D., P.Eng.**
 
 Associate Professor, Structural Engineering
 
