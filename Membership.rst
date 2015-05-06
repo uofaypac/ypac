@@ -35,10 +35,10 @@ Registration (Under construction)
 .. raw:: html
 
       <p>
-      First name name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="firstName" style="width: 120px;"></p>
-      <p>Last name&nbsp name&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="lastName" style="width: 120px;"></p>
-      <p>Institution  name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<input type="text" id="institution" style="width: 120px;"></p>
-      <p>Position name&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbspname&nbsp<select id="pos" size="1">
+      First name <input type="text" id="firstName" style="width: 120px;"></p>
+      <p>Last name&nbsp <input type="text" id="lastName" style="width: 120px;"></p>
+      <p>Institution  <input type="text" id="institution" style="width: 120px;"></p>
+      <p>Position <select id="pos" size="1">
       	<option value="undergraduate student">Undergraduate Student</option>
         <option value="graduate student">Graduate Student</option>
         <option value="research assistant">Research Assistant</option>
