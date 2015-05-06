@@ -1,7 +1,7 @@
 Contact
 ================
 
-**Samer Adeeb**
+**Samer Adeeb, Ph.D. P.Eng.**
 
 Associate Professor, Structural Engineering
 
@@ -37,7 +37,7 @@ Send an email to Diana_.
 
 .. _Diana: dabdulha@ualberta.ca
 
-**Muntaseer Kainat**
+**Muntaseer Kainat, Ph.D.**
 
 Executive Committee, U of A YPAC
 
