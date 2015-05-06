@@ -25,7 +25,7 @@ Executive Committee, U of A YPAC
 
 Send an email to Meng_.
 
- .. _Meng: lin4@ualberta.ca"
+ .. _Meng: lin4@ualberta.ca
 
 **Diana Abdulhameed**
 
@@ -35,7 +35,7 @@ Research Assistant, University of Alberta
 
 Send an email to Diana_.
 
-.. _Diana: dabdulha@ualberta.ca">
+.. _Diana: dabdulha@ualberta.ca"
 
 **Muntaseer Kainat**
 
