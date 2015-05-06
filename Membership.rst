@@ -50,6 +50,6 @@ Registration (Under construction)
       <p>Username  <input type="text" id="usernameR" style="width: 120px;"></p>
       <p>Password  <input type="text" id="passR" style="width: 120px;"></p>
       <p>Re-type password  <input type="text" id="repassR" style="width: 120px;"></p>
-      <p><button id="Register" type="button"></p>
+      <p><button id="register" type="button">Register</button></p>
 
       
