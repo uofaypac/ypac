@@ -35,9 +35,9 @@ Registration
 .. raw:: html
 
       <p>
-      First name <input type="text" id="firstName" style="width: 100px;"></p>
-      <p>Last name&nbsp <input type="text" id="lastName" style="width: 100px;"></p>
-      <p>Institution  <input type="text" id="institution" style="width: 100px;"></p>
+      First name <input type="text" id="firstName" style="width: 120px;"></p>
+      <p>Last name&nbsp <input type="text" id="lastName" style="width: 120px;"></p>
+      <p>Institution  <input type="text" id="institution" style="width: 120px;"></p>
       <p>Position <select id="pos" size="1">
       	<option value="undergraduate student">Undergraduate Student</option>
         <option value="graduate student">Graduate Student</option>
