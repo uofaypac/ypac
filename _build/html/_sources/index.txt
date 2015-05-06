@@ -29,6 +29,14 @@
 Welcome to U of A YPAC !
 ======================================================
 
+`Young Pipeliners Association of Canada Conference 2015 !`
+
+`Abstract Submissions`__
+
+.. _AbstractLink: https://easychair.org/account/signin.cgi?key=23991202.cLKqZKGK3uVigYMo
+
+__ AbstractLink_ 
+
 Contents:
 
 .. toctree::
