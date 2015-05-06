@@ -12,17 +12,17 @@
   :scale: 50 %
   :align: center
 
-+---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
-| .. _figa:                                   |                                     |                                  |.. _figb:                           |
-|                                             |                                     |                                  |                                    |
-| .. figure:: UofAlogo.jpg                    |.. figure:: YPACLogo.JPG             |.. figure:: UofAlogo.jpg          |.. figure:: YPACLogo.JPG            |
-|   :target: http://www.ualberta.ca           | :target: http://www.ypacanada.com   |   :target: http://www.ualberta.ca|   :target: http://www.ypacanada.com|
-|   :width: 224px                             | :width: 150px                       |   :width: 224px                  |   :width: 150px                    |
-|   :height: 225px                            | :height: 150px                      |   :height: 225px                 |   :height: 150px                   |
-|   :scale: 65 %                              | :scale: 85 %                        |   :scale: 65 %                   |   :scale: 85 %                     |
-|   :align: center                            | :align: center                      |   :align: center                 |   :align: center                   |
-|                                             |                                     |                                  |                                    |
-+---------------------------------------------+-------------------------------------+----------------------------------+------------------------------------+
++---------------------------------------------+-------------------------------------+--------------------------------------------+-------------------------------------+
+| .. _figa:                                   |                                     |                                            |.. _figb:                            |
+|                                             |                                     |                                            |                                     |
+| .. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |.. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |
+|   :target: http://www.ypacanada.com         | :target: http://www.ypacanada.com   |   :target: http://http://www.ypacanada.com |   :target: http://www.ypacanada.com |
+|   :width: 150px                             | :width: 150px                       |   :width: 224px                            |   :width: 150px                     |
+|   :height: 150px                            | :height: 150px                      |   :height: 225px                           |   :height: 150px                    |
+|   :scale: 85 %                              | :scale: 85 %                        |   :scale: 85 %                             |   :scale: 85 %                      |
+|   :align: center                            | :align: center                      |   :align: center                           |   :align: center                    |
+|                                             |                                     |                                            |                                     |
++---------------------------------------------+-------------------------------------+--------------------------------------------+-------------------------------------+
 
 Welcome to U of A YPAC !
 ======================================================
