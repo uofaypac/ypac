@@ -13,8 +13,8 @@
 |                                             |                                     |                                            |                                     |
 | .. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |.. figure:: YPACLogo.JPG                    |.. figure:: YPACLogo.JPG             |
 |   :target: http://www.ypacanada.com         | :target: http://www.ypacanada.com   |   :target: http://http://www.ypacanada.com |   :target: http://www.ypacanada.com |
-|   :width: 150px                             | :width: 150px                       |   :width: 224px                            |   :width: 150px                     |
-|   :height: 150px                            | :height: 150px                      |   :height: 225px                           |   :height: 150px                    |
+|   :width: 150px                             | :width: 150px                       |   :width: 150px                            |   :width: 150px                     |
+|   :height: 150px                            | :height: 150px                      |   :height: 150px                           |   :height: 150px                    |
 |   :scale: 85 %                              | :scale: 85 %                        |   :scale: 85 %                             |   :scale: 85 %                      |
 |   :align: center                            | :align: center                      |   :align: center                           |   :align: center                    |
 |                                             |                                     |                                            |                                     |
