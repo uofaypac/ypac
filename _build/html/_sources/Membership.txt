@@ -47,10 +47,5 @@ Registration
         <option value="industry">Industry(general)</option>
       </select>
       </p>
-      <p>
-        x[mm] <input type="text" id="x" style="width: 70px;">
-        y[mm] <input type="text" id="y" style="width: 70px;">
-        <input type="checkbox" id="xConstraint" >x constraint
-        <input type="checkbox" id="yConstraint" >y constraint
-      </p>
+
       
