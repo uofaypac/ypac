@@ -21,6 +21,28 @@
 Events
 =========
 
+One evening, Two Speakers!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Good morning Young Pipeliners,
+
+One evening, two speakers. Come learn more about Pipeline Design and Aboveground Storage tanks, presented by two professional engineers from Enbridge Pipelines Inc. 
+1) Feeding the Beast (managing aboveground storage tank integrity)
+2) Pipeline System Design and Project Development
+ 
+Tuesday May 19, 2015
+5:30 Registration
+6:00 - 6:30 Feeding the Beast
+6:30 - 7:00 Pipeline System Design
+7:00 - 7:45 Q&A and networking
+
+Follow the links:
+http://ypacanada.com/events/ypac-edmonton-pipeline-design-and-above-ground-storage-tanks
+
+http://www.eventbrite.ca/e/pipeline-system-design-and-storage-tanks-tickets-16869863215
+
+Have a great week!
+
+
 Edmonton Field Trip
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 Good day to all Young Pipeliners in Edmonton!  Reminder to all on the subscription list that this field trip will originate from Edmonton.  There will be the exact same Calgary Field Trip in the Fall of 2015, so keep your eyes peeled, follow us @ypacanada!
