@@ -29,27 +29,29 @@ In order to become a member of U of A YPAC, you should meet the following criter
 - Be a current undergraduate or graduate student in the University of Alberta who is working on a pipeline project or interested in the pipeline studies.
 - Or be a recent graduate student with a reasonable chance of entering the pipeline industry.
 
-Registration (Under construction)
+Registration
 -----------------------------------
 
-.. raw:: html
+For registration please send an email to one of the persons in the contacts page stating your interest with your name, institution and email address.
 
-      <p>
-      First name <input type="text" id="firstName" style="width: 120px;"></p>
-      <p>Last name&nbsp <input type="text" id="lastName" style="width: 120px;"></p>
-      <p>Institution  <input type="text" id="institution" style="width: 120px;"></p>
-      <p>Position <select id="pos" size="1">
-      	<option value="undergraduate student">Undergraduate Student</option>
-        <option value="graduate student">Graduate Student</option>
-        <option value="research assistant">Research Assistant</option>
-        <option value="engineer">Engineer</option>
-        <option value="professor">Professor</option>
-        <option value="industry">Industry(general)</option>
-      </select>
-      </p>
-      <p>Username  <input type="text" id="usernameR" style="width: 120px;"></p>
-      <p>Password  <input type="text" id="passR" style="width: 120px;"></p>
-      <p>Re-type password  <input type="text" id="repassR" style="width: 120px;"></p>
-      <p><button id="register" type="button">Register</button></p>
+.. .. raw:: html
+
+..       <p>
+..       First name <input type="text" id="firstName" style="width: 120px;"></p>
+..       <p>Last name&nbsp <input type="text" id="lastName" style="width: 120px;"></p>
+..       <p>Institution  <input type="text" id="institution" style="width: 120px;"></p>
+..       <p>Position <select id="pos" size="1">
+..       	<option value="undergraduate student">Undergraduate Student</option>
+..         <option value="graduate student">Graduate Student</option>
+..         <option value="research assistant">Research Assistant</option>
+..         <option value="engineer">Engineer</option>
+..         <option value="professor">Professor</option>
+..         <option value="industry">Industry(general)</option>
+..       </select>
+..       </p>
+..       <p>Username  <input type="text" id="usernameR" style="width: 120px;"></p>
+..       <p>Password  <input type="text" id="passR" style="width: 120px;"></p>
+..       <p>Re-type password  <input type="text" id="repassR" style="width: 120px;"></p>
+..       <p><button id="register" type="button">Register</button></p>
 
       

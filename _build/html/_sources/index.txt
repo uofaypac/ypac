@@ -45,7 +45,7 @@ Contents:
    Overview.rst
    Membership.rst
    Events.rst
-   Contact.rst
+   Contacts.rst
 
 
 

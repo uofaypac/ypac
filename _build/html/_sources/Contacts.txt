@@ -1,5 +1,8 @@
-Contact
-================
+.. _contacts:
+
+========
+Contacts
+========
 
 **Tran Mah-Paulson**
 
