@@ -30,9 +30,13 @@ One evening, two speakers. Come learn more about Pipeline Design and Aboveground
 2) Pipeline System Design and Project Development
  
 Tuesday May 19, 2015
+
 5:30 Registration
+
 6:00 - 6:30 Feeding the Beast
+
 6:30 - 7:00 Pipeline System Design
+
 7:00 - 7:45 Q&A and networking
 
 Follow the links:
